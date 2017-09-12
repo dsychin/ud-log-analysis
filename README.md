@@ -8,6 +8,7 @@ and answer a few questions by querying data from the database provided.
 ## Prerequisites
 - PostgreSQL
 - Python 3
+- Psycopg2 for python
 
 ## Instructions
 ### Preparation
